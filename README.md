@@ -10,7 +10,7 @@ INSTRUCTIONS:
 
 3: Put Choco-Master-launcher in the same directory where you have chocolate-doom.exe and doom2.wad.
 
-4: Double-click Choco-Master-launcher.exe, choose skill level, or parameter and choose a wad.
+4: Double-click Choco-Master-launcher.exe, choose skill level and choose a wad.
 
 Extra additions:
 
